@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labo7_PDM_00090216</string>
+    <string name="add_string">Add</string>
+    <string name="hint_repo_name">Repo name</string>
+</resources>
